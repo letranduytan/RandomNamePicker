@@ -10,6 +10,8 @@ by LeTranDuyTan
 
 -----------------------------------------------------------------------------------------------
 
+![Output](/output/html-css.png)
+
 Simple app on vanila JavaScript that will pick a random name from a list of given names by typing or uploading a .txt file.Build in HTML ,CSS and Basic Bootstrap and pure JavaScript no jQuiry.
 
 ## Details
